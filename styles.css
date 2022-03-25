@@ -2,9 +2,6 @@
   /* prevents an automatic margin causing white space */
   margin: 0px;
 }
-body {
-  background-image: url("C:\Users\kreddy\Salesforce\Projects\Assessment-thiru\images\background image.jpg");  
- }
 
 nav{
   
@@ -26,9 +23,9 @@ nav a{
 }
 
 body{
-  background-image: linear-gradient(to right,rgb(233, 55, 85), blue);
+  background-image: linear-gradient(to right,rgb(25, 203, 188), blue);
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  margin: 20px;
+  margin: 30px;
   
 }
 
@@ -49,7 +46,7 @@ nav{
 
 nav a {
   padding: 10px 100px;
-  background-color: pink;
+  background-color: rgb(121, 17, 112);
   text-align: center;
   margin: 10px;
 }
@@ -68,7 +65,7 @@ nav a {
 }
 
 .price{
-  background-color:pink;
+  background-color:rgb(141, 139, 30);
   margin: 10px;
   text-align: center;
   padding-top: 40px;
@@ -132,7 +129,7 @@ nav a {
 .grams-top hr{
   height: 10px;
   margin-top: 25px;
-  background-image: linear-gradient(to right,rgb(233, 55, 85), yellow);
+  background-image: linear-gradient(to right,rgb(215, 233, 55), rgb(0, 255, 106));
   border: 0px none;
 }
 
